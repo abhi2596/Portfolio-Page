@@ -1,0 +1,39 @@
+h1,h2{
+    text-align: center;
+    color: #004c6d;
+}
+
+h3,h4{
+    color: #004c6d;
+}
+
+.bar{
+    width: 50%;
+    height: 12.5%;
+    margin: 1rem;
+}
+
+.menu{
+    width:25%;
+    height:15%;
+    margin:1rem;
+}
+
+.menu1{
+    width:50%;
+    height:25%;
+    margin: 1rem;
+}
+
+.table{
+    width: 50%;
+    height: 25%;
+    margin: 1rem;
+}
+
+
+.datesbar
+{
+    width:60%;
+    height: 30%;
+}
